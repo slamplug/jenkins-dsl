@@ -9,7 +9,7 @@ repositories.each {
     	scm {
         	git(scmUrl)
     	}
-   		triggers {
+   	triggers {
         	scm('*/15 * * * *')
     	}
     	steps {
