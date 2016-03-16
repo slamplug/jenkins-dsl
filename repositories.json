@@ -1,9 +1,7 @@
-{
-  [{
-    "repository": "tt-line-characteristics-service1",
-    "branch": "origin/master"
-  },{
-    "repository": "tt-line-characteristics-service2",
-    "branch": "origin/master"
-  }]
-}
+[{
+  "repository": "tt-line-characteristics-service1",
+  "branch": "origin/master"
+ },{
+  "repository": "tt-line-characteristics-service2",
+  "branch": "origin/master"
+}]
