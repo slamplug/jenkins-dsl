@@ -1,0 +1,6 @@
+{repositories: [
+  {
+	repository: 'tt-line-characteristics-service',
+	branch: 'origin/master'
+  }]
+}
