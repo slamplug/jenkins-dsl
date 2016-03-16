@@ -1,6 +1,6 @@
-{repositories: [
+{"repositories": [
   {
-	repository: 'tt-line-characteristics-service',
-	branch: 'origin/master'
+	"repository": "tt-line-characteristics-service",
+	"branch": "origin/master"
   }]
 }
